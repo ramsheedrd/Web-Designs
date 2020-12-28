@@ -1,0 +1,16 @@
+{
+  "name": "locked-away-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^8.1.10",
+    "tailwindcss": "^2.0.1"
+  }
+}
