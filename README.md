@@ -5,5 +5,5 @@
 ![alt text](https://github.com/ramsheedrd/Web-Designs/blob/main/newspaper-design/news-paper-design.jpg?raw=true)
 &nbsp;
 
-### 2) Locked Away
+### 2) Locked Away (using tailwind css)
 ![alt text](https://github.com/ramsheedrd/Web-Designs/blob/main/locked-away-design/locked-away-design.jpg?raw=true)
